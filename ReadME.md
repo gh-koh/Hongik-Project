@@ -40,11 +40,12 @@ I also performed factor analysis to uncover latent factors behind the survey ans
 I hypothesized that an oblique rotation would be appropriate given the nature of the data, although it turned out that the results differed very little whether the rotation was promax (a type of oblique rotation) or varimax (a type of orthogonal rotation). I created scree plots, as well as calculated the eigenvalues, for both types of rotations which confirmed that the appropriate number of factors to test for was 3.
 
 
-!()[scree_plot_varimax.jpg]
-!()[scree_plot_promax.jpg]
+![](scree_plot_varimax.jpg)
+![](scree_plot_promax.jpg)
 
 After performing the factor analysis, I hypothesized that the three factors were:
 
 1. The adequacy of protection for AI-generated content in the respective countries
 2. The impact AI has on the work of the participants
 3. The participants' perception on the necessity of copyright protection for AI-generated content
+
